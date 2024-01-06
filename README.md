@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Dom
-
 I like computing history and building the computing future. Projects include:
 
 🤖 **Social bots:** - creator of the Twitter-famous [BBCMicroBot](https://github.com/8bitkick/BBCMicroBot), now on Mastodon
