@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I like computing history and building the computing future. Projects include:
+I like computing history and building the computing future. Interests include:
+
+🧠 **Embedded AI:** - I lead AI software enablement for [Synaptics](https://developer.synaptics.com)
 
 🤖 **Social bots:** - creator of the Twitter-famous [BBCMicroBot](https://github.com/8bitkick/BBCMicroBot), now on Mastodon
 
 👁️ **Immersive web** - building mixed-reality stuff with threejs and WebXR like [XR Beeb](https://xr.bbcmic.ro) and [VoxelAstra](https://github.com/8bitkick/8bitkick.github.io/tree/master/VoxelAstra)
-
-🧠 **Embedded AI:** Making [TinyML](https://github.com/arduino/ArduinoTensorFlowLiteTutorials) accessible to developers everywhere
 
 📺 **Retrocomputing:** Hook up your 80s Acorn machine to a [virtual cassette deck](https://github.com/8bitkick/PlayUEF)!
 
