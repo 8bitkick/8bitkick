@@ -6,7 +6,7 @@ I like computing history and building the computing future. Interests include:
 
 🤖 **Social bots:** - creator of the Twitter-famous [BBCMicroBot](https://github.com/8bitkick/BBCMicroBot), now on Mastodon
 
-👁️ **Immersive web** - building mixed-reality stuff with threejs and WebXR like [XR Beeb](https://xr.bbcmic.ro) and [VoxelAstra](https://github.com/8bitkick/8bitkick.github.io/tree/master/VoxelAstra)
+👁️ **Immersive web** - building mixed-reality stuff with threejs and WebXR like [XR Beeb](https://xr.bbcmic.ro) (featured in Meta Quest3 browser!)
 
 📺 **Retrocomputing:** Hook up your 80s Acorn machine to a [virtual cassette deck](https://github.com/8bitkick/PlayUEF)!
 
